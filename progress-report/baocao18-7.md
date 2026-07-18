@@ -1,6 +1,6 @@
 # Báo cáo tiến độ - đến ngày 18-7
 
-**Dự án:** Website Đăng ký Khám bệnh Từ xa  
+**Dự án:** Xây dựng website đặt lịch hẹn khám bệnh ngoài giờ 
 **Thời gian:** 18/07/2026
 
 ## Mục tiêu
@@ -11,7 +11,7 @@ Khởi tạo dự án và chuẩn bị môi trường phát triển trên GitHub
 - Tạo GitHub Repository cho dự án.
 - Thiết lập repository và tìm hiểu cách quản lý mã nguồn bằng GitHub.
 - Tạo và cập nhật file README.md để giới thiệu dự án.
-- Xây dựng ý tưởng hệ thống "Website Đăng ký Khám bệnh Từ xa".
+- Xây dựng ý tưởng hệ thống "Website đặt lịch hẹn khám bệnh ngoài giờ".
 - Xác định các chức năng chính của hệ thống:
 - Tìm hiểu cách tạo thư mục và tổ chức cấu trúc repository trên GitHub.
 - Lập kế hoạch lưu trữ báo cáo tiến độ theo từng tuần trong thư mục `progress-report`.
